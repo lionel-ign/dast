@@ -1,6 +1,6 @@
 # Data Analysis and Storytelling
 
-This repository centralizes slides, exercises, and supporting scripts for the Data Analysis and Storytelling class given in september / november 2026.
+This repository centralizes slides, practicals, data, and supporting scripts for the Data Analysis and Storytelling class given in september / november 2026.
 
 ## Course information
 
@@ -72,7 +72,9 @@ pm: exam and project launch
 ## Repository structure
 
 ```
-/slides/
-/practicals/
-/data/
+DataAnalysis/
+--- /slides/
+--- /practicals/
+--- /data/
+--- /live_coding/
 ```
