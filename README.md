@@ -33,7 +33,7 @@ pm: hierarchical models
 am: Graphic display of data
 pm: Main (geo)visualization approaches
 
-**Software:** TBD  
+**Software:** Python  
 **Instructor:** Jacques Gautier
 
 
@@ -41,21 +41,22 @@ pm: Main (geo)visualization approaches
 am: Fitting spatio-temporal structures in regression models: from autocorrelation to trend analysis
 pm: Spatio-temporal data visualization
 
-**Software:** R (`brms`), TBD  
+**Software:** R (`brms`), Python  
 **Instructor:** Lionel Hertzog, Jacques Gautier
 
-### 02/11 - Uncertainty and Storytelling
-am: Uncertainty visualization
-pm: Datastorytelling
+### 02/11 - Conference ; Uncertainty visualization
+am: Conference on NFI data analysis and storytelling
+pm: Uncertainty visualization
 
-**Software:** TBD  
-**Instructor:** Jacques Gautier, Maria Jesus Lobo
+**Software:** Python  
+**Instructor:** Nathalie Derrière, Jacques Gautier
 
-### 03/11 - conference, exam and projet launch
-am: conference on NFI data analysis and storytelling
+### 03/11 - DataStorytelling, exam and projet launch
+am: Datastorytelling
 pm: exam and project launch
 
-**Instructor:** Nathalie Derrière, Lionel Hertzog, Maria Jesus Lobo
+**Software:** TBD 
+**Instructor:** Maria Jesus Lobo, Lionel Hertzog
 
 
 ## Prerequisites
